@@ -20,6 +20,6 @@ author_profile: true
 
 **WORKS IN PROGRESS** 
 
-R&D Mobility (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265)*)
+R&amp;D Mobility (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265)*)
 
 Racial Disparities in Agglomeration Spillovers (*w/ [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265) and [Stephen Ross](https://econ.uconn.edu/ross/)*)
