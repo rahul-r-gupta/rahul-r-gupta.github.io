@@ -17,9 +17,12 @@ author_profile: true
 
 **Abstract:** Arrivals of large firms into a county may increase school district revenue by increasing property tax collections. However, the extensive use of targeted tax subsidies to attract such firms could potentially offset gains. We uncover this relationship by comparing school districts in counties that win a new establishment to those in runner-up counties. We find that the arrival of a large firm increases per student property tax revenue that is mainly spent on total teacher compensation. These gains are concentrated in districts farther away from the plant rather than those most proximate. Consistent with recent literature on place-based business subsidies, we show that openings associated with subsidies do not improve overall district revenue which suggests that attracting new firms to an area does not necessarily improve funding for local public goods.
 
+Frictions for Firms in the New Geography of Innovation (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265)*)
+
+**Abstract:** While the rise in the spatial concentration of U.S. invention in a narrow set of cities is well documented (e.g., Kerr and Robert-Nicoud, 2020), we explore the role of housing price differentials on the concentration of inventor migration across a few cities following the software boom and prominent R&D lab collapses. We document that the rise in concentration was largely fueled by a rise in software and digital technology that forced firms to re-organize their R&D spatial footprint across cities with increasingly disparate housing price trajectories. Our estimates suggest
+that inventors in cities facing technological displacement are 8.15% more likely to continue patenting if housing prices double. Interestingly, we find ex ante software experience prior to a lab collapse does not insulate a patent inventor from falling out of the set of active U.S. inventors relative to their non-software lab colleagues in the same technology field.
 
 **WORKS IN PROGRESS** 
+Location Spillovers, Labor Market Outcomes, and Firm Productivity (*w/ Saheel Chodavadia, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265), and [Stephen Ross](https://econ.uconn.edu/ross/)*)
 
-R&amp;D Mobility (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265)*)
-
-Racial Disparities in Agglomeration Spillovers (*w/ Saheel Chodavadia, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265), and [Stephen Ross](https://econ.uconn.edu/ross/)*)
+Multinationals, Greenfield Investment, and the Environment (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [Haruka Takayama] (https://sites.google.com/virginia.edu/haruka-takayama/home)*)
