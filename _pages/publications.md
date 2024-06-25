@@ -23,6 +23,8 @@ author_profile: true
 that inventors in cities facing technological displacement are 8.15% more likely to continue patenting if housing prices double. Interestingly, we find ex ante software experience prior to a lab collapse does not insulate a patent inventor from falling out of the set of active U.S. inventors relative to their non-software lab colleagues in the same technology field.
 
 **WORKS IN PROGRESS** 
+
+
 Location Spillovers, Labor Market Outcomes, and Firm Productivity (*w/ Saheel Chodavadia, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265), and [Stephen Ross](https://econ.uconn.edu/ross/)*)
 
 Multinationals, Greenfield Investment, and the Environment (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [Haruka Takayama](https://sites.google.com/virginia.edu/haruka-takayama/home)*)
