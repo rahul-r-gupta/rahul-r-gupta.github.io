@@ -23,7 +23,6 @@ that inventors in cities facing technological displacement are 8.15% more likely
 
 **WORKS IN PROGRESS** 
 
-
-Location Spillovers, Labor Market Outcomes, and Firm Productivity (*w/ Saheel Chodavadia, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265), and [Stephen Ross](https://econ.uconn.edu/ross/)*)
+Who Benefits from Million Dollar Plants? The Missing Local Beneficiaries (*w/ Saheel Chodavadia, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265), and [Stephen Ross](https://econ.uconn.edu/ross/)*)
 
 Multinationals, Greenfield Investment, and the Environment (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [Haruka Takayama](https://sites.google.com/virginia.edu/haruka-takayama/home)*)
