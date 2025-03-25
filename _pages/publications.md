@@ -7,7 +7,7 @@ author_profile: true
 
 **WORKING PAPERS**
 
-["Firms for Funding: The Effect of Million Dollar Plants on School Finances and Student Achievement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945702) (*w/ [Viviana Rodriguez](https://www.vivianarodriguez.com/)*)
+["Firms for Funding: The Effect of Million Dollar Plants on School Finances and Student Achievement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945702) (*w/ [Viviana Rodriguez](https://www.vivianarodriguez.com/)*)** R&R at *Journal of Urban Economics* **
 
 **Abstract:** We compare school districts in counties that win a Million Dollar Plant (MDP) to those in counties considered finalists. We show that winning an MDP leads to a persistent increase in school district revenue that more than offsets the increase in student enrollment. This windfall revenue is mostly spent on instructional expenses and teacher hiring, leading to a reduction in average class size and improvements in reading and math scores. Finally, we find manufacturing plants lead districts to spend additional property tax revenue on capital projects while high-tech establishments induce expenditures on instruction that improve math proficiency scores.
 
