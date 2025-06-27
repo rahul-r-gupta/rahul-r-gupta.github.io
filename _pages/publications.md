@@ -7,9 +7,9 @@ author_profile: true
 
 **WORKING PAPERS**
 
-["Firms for Funding: The Effect of Million Dollar Plants on School Finances and Student Achievement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945702) (*w/ [Viviana Rodriguez](https://www.vivianarodriguez.com/)*) **R&R at Journal of Urban Economics**
+["Firms for Funding: The Effect of Million Dollar Plants on School Finances and Student Achievement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945702) (*w/ [Viviana Rodriguez](https://www.vivianarodriguez.com/)*) **Conditional Acceptance at Journal of Urban Economics**
 
-**Abstract:** We compare school districts in counties that win a Million Dollar Plant (MDP) to those in counties considered finalists. We show that winning an MDP leads to a persistent increase in school district revenue that more than offsets the increase in student enrollment. This windfall revenue is mostly spent on instructional expenses and teacher hiring, leading to a reduction in average class size and improvements in reading and math scores. Finally, we find manufacturing plants lead districts to spend additional property tax revenue on capital projects while high-tech establishments induce expenditures on instruction that improve math proficiency scores.
+**Abstract:** We study the impact of large firm entry on local public education by comparing school districts in counties that win a Million Dollar Plant (MDP) to runner-up counties. Winning an MDP increases school district revenues by approximately 3%, primarily through higher local property tax collections. While total per pupil revenue rises modestly, we find gains in instructional spending and small improvements in test scores.  Effects vary by firm type: manufacturing MDPs are associated with greater capital outlays but limited achievement gains, whereas high-tech MDPs see increased instructional spending and improved proficiency. Districts with MDPs in highly educated industries exhibit larger increases in instructional spending and student outcomes, even when overall revenue gains are similar.
 
 ["Does Goliath Help David? Anchor Firms and Startup Clusters"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616337)
 
