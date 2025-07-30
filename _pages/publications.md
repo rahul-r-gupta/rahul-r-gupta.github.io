@@ -7,7 +7,7 @@ author_profile: true
 
 **PUBLICATIONS**
 
-["Firms for Funding: The Effect of Million Dollar Plants on School Finances and Student Achievement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945702) (*w/ [Viviana Rodriguez](https://www.vivianarodriguez.com/)*) **Accepted at Journal of Urban Economics**
+["Firms for Funding: The Effect of Million Dollar Plants on School Finances and Student Achievement"](https://doi.org/10.1016/j.jue.2025.103794) (w/ [Viviana Rodriguez](https://www.vivianarodriguez.com/)) *Journal of Urban Economics* 149 (September).
 
 **Abstract:** We study the impact of large firm entry on local public education by comparing school districts in counties that win a Million Dollar Plant (MDP) to runner-up counties. Winning an MDP increases school district revenues by approximately 3%, primarily through higher local property tax collections. While total per pupil revenue rises modestly, we find gains in instructional spending and small improvements in test scores.  Effects vary by firm type: manufacturing MDPs are associated with greater capital outlays but limited achievement gains, whereas high-tech MDPs see increased instructional spending and improved proficiency. Districts with MDPs in highly educated industries exhibit larger increases in instructional spending and student outcomes, even when overall revenue gains are similar.
 
