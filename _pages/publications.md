@@ -13,10 +13,10 @@ author_profile: true
 
 **WORKING PAPERS**
 
-["Does Goliath Help David? Anchor Firms and Startup Clusters"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616337)
+["Does Goliath Help David? Anchor Firms and Startup Clusters"](https://www.dropbox.com/scl/fi/jhhhvl8k14fu18mv818li/Goliath.pdf?rlkey=zko3v5u7wfxtubtii84hmx8gb&st=ltbyeoyv&dl=0)
 *Revise & Resubmit, Journal of Urban Economics*
 
-**Abstract:** Does attracting a “Goliath” firm to a county anchor the growth of regional industry clusters? Matching a hand-collected dataset of major corporate site selection contests to restricted- and public-use U.S. Census data, I show that winning a “Million Dollar Plant” (MDP) increases employment in input–output-linked industries by 6.7% relative to runner-up counties. This growth is driven by startup formation: employment in the MDP’s supply chain industries becomes 0.71% more concentrated in young firms. Startups founded after the MDP announcement grow 12.3% faster and are 6.8% less likely to fail within five years. Entrepreneurial gains are concentrated among high-wage, industry-experienced local workers.
+**Abstract:** Does attracting a "Goliath" firm to a county anchor the growth of regional industry clusters? Does attracting a "Goliath" firm to a county anchor the growth of regional industry clusters? Matching a hand-collected dataset of major corporate site selection contests to restricted-use U.S. Census microdata, I show that winning a "Million Dollar Plant" (MDP) increases startup employment in input–output-linked industries by 49% relative to runner-up counties, while local incumbent firms account for 89% of net supply chain job gains. Post-announcement startups are more numerous but smaller than comparable cohorts in runner-up counties. The two main sources of job creation draw on distinct segments of the local labor market as startups rely disproportionately on immigrant workers whereas local incumbents employ more local workers and neither shows evidence of worker flows from the MDP’s ultimate owner.
 
 "Who Benefits from Million Dollar Plants? The Missing Local Beneficiaries"" (*w/ Saheel Chodavadia, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265), and [Stephen Ross](https://econ.uconn.edu/ross/)*)
 
