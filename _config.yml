@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rahul R. Gupta"
 title_separator          : "-"
 name                     : &name "Rahul R. Gupta"
-description              : &description "Assistant Professor"
+description              : &description "Economist"
 url                      : https://rahul-r-gupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rahul-r-gupta/rahul-r-gupta.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rahul R. Gupta"
   avatar           : "me.png"
-  bio              : "Assistant Professor"
+  bio              : "Economist"
   location         : "Washington, D.C."
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "rahul.gupta@georgetown.edu"
+  email            : "rahulgupta0708@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
