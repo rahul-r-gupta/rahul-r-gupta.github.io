@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-**RESEARCH PAPERS**
-
 ["Does Goliath Help David? Anchor Firms and Startup Clusters"](https://www.dropbox.com/scl/fi/jhhhvl8k14fu18mv818li/Goliath.pdf?rlkey=zko3v5u7wfxtubtii84hmx8gb&st=ltbyeoyv&dl=0)
 *Revise & Resubmit (Second Round), Journal of Urban Economics*
 
@@ -31,7 +29,3 @@ author_profile: true
 "Regional Resilience, Startups, and the Great Recession" 
 
 **Abstract:** This paper investigates how employment levels across geographic regions in the U.S. recovered after the Great Recession. Using a Bartik (1991) framework to leverage variation across regions according to their industry composition, this paper highlights a new pattern during the recovery from the Great Recession. Regions that experienced the most dramatic downturns do not recover as quickly as expected, and this deficit is largely explained by a diminished role for startups in job creation. Common perceptions about local labor market quality and credit availability to startups do not explain the startup deficit post-crisis.
- 
-**WORKS IN PROGRESS** 
-
-Multinationals, Greenfield Investment, and the Environment (*w/ [Xian Jiang](https://www.xian-jiang.com/), [Haruka Takayama](https://sites.google.com/virginia.edu/haruka-takayama/home), and Mahdi Shams*)
