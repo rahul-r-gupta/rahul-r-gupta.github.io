@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-"More Mobile, More Concentrated: Inventor Flows, Firm Networks, and the New Geography of Innovation" (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265)*)
+["More Mobile, More Concentrated: Inventor Flows, Firm Networks, and the New Geography of Innovation"](https://www.dropbox.com/scl/fi/g89o0ik6jtk67uvscilkm/MoreMobileMoreConnected.pdf?rlkey=udk4ya6knzfbes94a5ymz6r0i&st=7um2g0oi&dl=0) (*w/ [Xian Jiang](https://www.xian-jiang.com/) and [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265)*)
 
 **Abstract:** We use U.S. patent records and metropolitan house-price data to document four
 changes in the geography of invention between 1980 and 2015. First, patents and in-
